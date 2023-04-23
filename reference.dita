@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference">
+    <title>reference</title>
+    <shortdesc>You need the following items to complete the task of applying toothpaste to a
+        toothbrush:</shortdesc>
+    <refbody>
+        <example id="example_bsy_hbv_fxb">
+            <p>
+                <ul id="ul_ifv_1bv_fxb">
+                    <li><i>Toothpaste</i> – special paste for cleaning teeth, locked in a toothpaste
+                        tube.</li>
+                    <li><i>Toothpaste tube</i> – tube-like packaging, flattened on one side and with
+                        a hole opening, covered by a screw-on cap, on the other, containing
+                        toothpaste.</li>
+                    <li><i>Toothbrush</i> – an elongated stick, usually with a non-slip grip on one
+                        side and a small brush on the other, together with toothpaste used for
+                        cleaning teeth.</li>
+                </ul>
+            </p>
+        </example>
+    </refbody>
+</reference>
