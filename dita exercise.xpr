@@ -6,6 +6,7 @@
     </meta>
     <projectTree name="dita%20exercise.xpr">
         <folder path="."/>
-        <file name="../../../../../../.Trash/README.md"/>
+        <file name="map_toothpaste.ditamap"/>
+        <file name="file:/../.Trash/README.md"/>
     </projectTree>
 </project>
