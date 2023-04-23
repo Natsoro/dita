@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task">
+    <title>Task</title>
+    <shortdesc>This part shows particular steps of applying toothpaste to a toothbrush</shortdesc>
+    <taskbody>
+        <context>Follow the steps below<p/></context>
+        <steps>
+            <step>
+                <cmd>Grab the toothpaste tube with your right hand, somewhere in the middle, with
+                    the cap end pointing towards you, and unscrew the cap counterclockwise.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the safety foil covering the opening by pulling at the sticking-out
+                    end.</cmd>
+            </step>
+            <step>
+                <cmd>Grab the toothbrush with your left hand by the non-slip grip end, with the
+                    brush facing up and the brush end pointing to your right.</cmd>
+            </step>
+            <step>
+                <cmd>Grab the toothpaste tube between your thumb and your index finger, near the
+                    opening.</cmd>
+            </step>
+            <step>
+                <cmd>Move the toothpaste tube closer to the brush, with the hole nearly touching the
+                    brush.</cmd>
+            </step>
+            <step>
+                <cmd>Squeeze the toothpaste tube gently until you see the paste coming out.</cmd>
+            </step>
+            <step>
+                <cmd>Apply a 2-cm-long strip of toothpaste to the toothbrush.</cmd>
+            </step>
+            <step>
+                <cmd>Screw the cap back on the toothpaste tube. Put it away.</cmd>
+            </step>
+            <step>
+                <cmd>Move the toothbrush to your right hand* and brush your teeth.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
